@@ -1,4 +1,4 @@
-# 📌 Imei_Check_Tool version Alpha
+# 📌 Imei_Check_Tool version 1.0
 
 Aplicación para verificar números IMEI y sus dígitos de control
 
@@ -9,7 +9,7 @@ Aplicación para verificar números IMEI y sus dígitos de control
 
 ## 🧠 Descripción
 
-IMEI Control Tool es una aplicación de escritorio desarrollada en Python con PyQt que permite verificar, generar y autocompletar el dígito de control de números IMEI utilizando el algoritmo de Luhn.
+IMEI Check Tool es una aplicación de escritorio desarrollada en Python con PyQt que permite verificar, generar y autocompletar el dígito de control de números IMEI utilizando el algoritmo de Luhn.
 
 La aplicación permite trabajar tanto con IMEIs individuales como con archivos completos en formato TXT o CSV, facilitando el procesamiento masivo de números IMEI de forma rápida y segura.
 

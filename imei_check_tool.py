@@ -397,7 +397,7 @@ class ImeiCheckApp(QMainWindow):
         info_html = (
             "<div style='text-align: center; font-family: sans-serif;'>"
             "<h2 style='color: #2c3e50;'>IMEI Check Tool</h2>"
-            "<p style='color: #7f8c8d;'><b>Versión:</b> Alpha</p>"
+            "<p style='color: #7f8c8d;'><b>Versión:</b> 1.0</p>"
             "<br>"
             "<p><b>Creador:</b> Roberto Getino García</p>"
             "<p><b>Sitio Web:</b> <a href='https://www.pulchratech.com' style='color: #3498db; text-decoration: none;'>https://www.pulchratech.com</a></p>"
